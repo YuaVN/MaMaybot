@@ -141,7 +141,7 @@ client.once('ready', () => {
     client.user.setPresence({
         status: 'available',
         activity: {
-            name: 'ĐỨC LOVE PHƯƠNG',
+            name: 'Mẹ MÀy Con Đĩ',
             type: 'WATCHING',
             url: 'https://discord.com'
         }
